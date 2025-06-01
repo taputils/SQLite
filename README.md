@@ -23,7 +23,6 @@ The app supports two main modes:
 ## Features
 
 - 🧠 Intelligent syntax highlighting (custom SQL highlighter)
-- 📂 Save and load `.sql` scripts from internal storage
 - ⚡ Execute commands instantly in Sandwich mode
 - 📜 Terminal-style UI for an immersive developer experience
 - 🚫 No ads, no internet required
@@ -39,33 +38,21 @@ The app supports two main modes:
    - Use Sandwich Mode for quick queries.
    - Use Script Mode for saving and organizing multiple SQL scripts.
 
-3. **Manage Tables**  
-   All `CREATE TABLE` commands are stored as `.sql` files under the app’s `tables/` directory.
-
 ---
 
 ## Requirements
 
 - **Android 8.0 (API 26)** or higher
-- Storage permission (for reading and writing `.sql` files)
-
----
-
-## License
-
-This project is licensed under the MIT License.  
-Feel free to modify, distribute, or contribute!
 
 ---
 
 ## Contributing
 
 We welcome contributions!  
-If you find a bug or have a feature request, please [open an issue](https://github.com/taputils/SQLite/issues) or submit a pull request.
+If you find a bug or have a feature request, please [open an issue](https://github.com/taputils/SQLite/issues)
 
 ---
 
 ## Connect
 
 **GitHub**: [github.com/taputils/SQLite](https://github.com/taputils/SQLite)  
-**Email**: taputils.dev@gmail.com *(example, replace with yours if needed)*
