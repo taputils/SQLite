@@ -2,6 +2,8 @@
 
 A simple and powerful Android app to run, test, and manage SQLite queries — no internet required.
 
+#### You can download directly from 
+
 ## About
 
 **SQLite** by [@taputils](https://github.com/taputils) is a terminal-style SQL runner app built for Android. It allows developers and learners to experiment with SQLite syntax, create and manage database tables, and test queries in real time — all from their mobile device.
