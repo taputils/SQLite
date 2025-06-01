@@ -31,9 +31,7 @@ The app supports only one main mode:
 1. **Install the APK**  
    Download the latest release from the [Releases](https://github.com/taputils/SQLite/releases) section.
 
-2. **Run SQL Code**  
-   - Use Sandwich Mode for quick queries.
-   - Use Script Mode for saving and organizing multiple SQL scripts.
+> ⚠️ Note: This app is distributed as an APK file. Because it is not hosted on the Google Play Store, Android will ask you to scan the app. This is normal. If you are uncomfortable then you can surely verify the app. 
 
 ---
 
@@ -53,5 +51,3 @@ If you find a bug or have a feature request, please [open an issue](https://gith
 ## Connect
 
 **GitHub**: [github.com/taputils/SQLite](https://github.com/taputils/SQLite)  
-
-> ⚠️ Note: This app is distributed as an APK file. Because it is not hosted on the Google Play Store, Android will ask you to scan the app. This is normal. If you are uncomfortable then you can surely verify the app. 
