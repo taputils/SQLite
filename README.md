@@ -2,7 +2,7 @@
 
 A simple and powerful Android app to run, test, and manage SQLite queries — no internet required.
 
-#### You can download directly from [here](https://github.com/taputils/SQLite/releases/download/v1.0.Alpha1/SQLite.v1.0.Alpha1.apk)
+#### You can download directly from → [here](https://github.com/taputils/SQLite/releases/download/v1.0.Alpha1/SQLite.v1.0.Alpha1.apk) ←
 
 ## About
 
